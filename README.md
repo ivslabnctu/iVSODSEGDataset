@@ -15,11 +15,7 @@ The dataset annotates the four commonly seen object types into six different cat
 ![sdadad](https://github.com/ivslabnctu/iVSODSEGDataset/assets/95270738/8a2df838-b727-40cc-9b90-2effff2c0a09)
 
 The iVS-ODSEG-Dataset consists of 36,000 annotated training images resolution 1280x720
-
-## iVS-ODSEG-Dataset Annotation
-
-- Class: the object class. I.e. car or person  
-- Bounding box: an axis-aligned rectangle specifying the extent of the object visible in the image  
+  
 
 ## How to download the iVS-ODSEG-Dataset?
 
